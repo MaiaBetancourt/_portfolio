@@ -4,13 +4,13 @@ import { Link } from "react-router-dom";
 export default function Navbar() {
   return (
     <div>
-      <nav className="navbar navbar-expand-lg navbar-light bg-light">
+      <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <Link to="/" className="navbar-brand" >
           Maria Betancourt
         </Link>
           
         <div className="collapse navbar-collapse" id="navbarNav">
-          <ul className="navbar-nav mr-auto">
+          <ul className="navbar-nav ml-auto">
             <li className="nav-item active">
               <Link to="/" className="nav-link" >
                 About <span className="sr-only">(current)</span>
