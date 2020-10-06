@@ -7,7 +7,7 @@ function About() {
         className="hero text-center"
         style={{
           height: "70vh",
-          backgroundImage: `url("https://i.imgur.com/qkdpN.jpg")`,
+          backgroundImage: `url(${process.env.PUBLIC_URL + "/DevImage.jpeg"})`,
         }}
       >
         <h1>Maria Betancourt</h1>
