@@ -10,8 +10,6 @@ function About() {
           backgroundImage: `url(${process.env.PUBLIC_URL + "/DevImage.jpeg"})`,
         }}
       >
-        <h1>Maria Betancourt</h1>
-        <h2>Web Developer</h2>
       </div>
       <div className="container" style={{ marginTop: 30 }}>
         <div className="row">
