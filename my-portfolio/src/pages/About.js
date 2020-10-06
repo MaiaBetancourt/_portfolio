@@ -6,7 +6,7 @@ function About() {
       <div
         className="hero text-center"
         style={{
-          height: "70vh",
+          height: "50vh",
           backgroundImage: `url(${process.env.PUBLIC_URL + "/DevImage.jpeg"})`,
         }}
       >
