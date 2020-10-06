@@ -2,21 +2,19 @@ import React from "react";
 import { BrowserRouter, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 
+import About from "./pages/About";
+
 function App() {
   return (
     <BrowserRouter>
       <div>
-        <Navbar/>
+        <Navbar />
         <Route exact path="/" component={About} />
         <Route exact path="/Portfolio" component={Portfolio} />
         <Route exact path="/Contact" component={Contact} />
       </div>
     </BrowserRouter>
   );
-}
-
-function About() {
-  return <h1>Welcome to about!!!</h1>;
 }
 
 function Portfolio() {
