@@ -3,6 +3,7 @@ import { BrowserRouter, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 
 import About from "./pages/About";
+import Portfolio from "./pages/Portfolio";
 
 function App() {
   return (
@@ -15,10 +16,6 @@ function App() {
       </div>
     </BrowserRouter>
   );
-}
-
-function Portfolio() {
-  return <h1>Welcome to portfolio!!!</h1>;
 }
 
 function Contact() {
