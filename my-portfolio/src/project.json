@@ -4,35 +4,35 @@
         "name": "Fitness Tracker",
         "image": "",
         "gitUrl": "https://github.com/MaiaBetancourt/fitness_tracker",
-        "deployedUrl": ""
+        "deployedUrl": "https://glacial-escarpment-63449.herokuapp.com/"
     },
     {
         "id": 2,
         "name": "Be Stocked",
         "image": "/images/GetStocked.png",
         "gitUrl": "https://github.com/MaiaBetancourt/p2_stock_dashboard",
-        "deployedUrl": ""
+        "deployedUrl": "https://calm-savannah-23723.herokuapp.com/"
     },
     {
         "id": 3,
         "name": "Budget Tracker",
         "image": "/images/BudgetApp.png",
         "gitUrl": "https://github.com/MaiaBetancourt/budget_tracker",
-        "deployedUrl": ""
+        "deployedUrl": "https://calm-bayou-76613.herokuapp.com/"
     },
     {
         "id": 4,
         "name": "Day Planner",
         "image": "",
         "gitUrl": "https://github.com/MaiaBetancourt/work-day-schedule",
-        "deployedUrl": ""
+        "deployedUrl": "https://maiabetancourt.github.io/work-day-schedule/"
     },
     {
         "id": 5,
         "name": "Team Profile Generator",
         "image": "",
         "gitUrl": "https://github.com/MaiaBetancourt/generateateam",
-        "deployedUrl": ""
+        "deployedUrl": "https://youtu.be/UQJHSP7e47s"
     },
     {
         "id": 6,
