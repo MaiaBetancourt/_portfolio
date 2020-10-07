@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "name": "Fitness Tracker",
+        "image": "",
+        "gitUrl": "https://github.com/MaiaBetancourt/fitness_tracker",
+        "deployedUrl": ""
+    },
+    {
+        "id": 2,
+        "name": "Be Stocked",
+        "image": "/images/GetStocked.png",
+        "gitUrl": "https://github.com/MaiaBetancourt/p2_stock_dashboard",
+        "deployedUrl": ""
+    },
+    {
+        "id": 3,
+        "name": "Budget Tracker",
+        "image": "/images/BudgetApp.png",
+        "gitUrl": "https://github.com/MaiaBetancourt/budget_tracker",
+        "deployedUrl": ""
+    },
+    {
+        "id": 4,
+        "name": "Day Planner",
+        "image": "",
+        "gitUrl": "https://github.com/MaiaBetancourt/work-day-schedule",
+        "deployedUrl": ""
+    },
+    {
+        "id": 5,
+        "name": "Team Profile Generator",
+        "image": "",
+        "gitUrl": "https://github.com/MaiaBetancourt/generateateam",
+        "deployedUrl": ""
+    },
+    {
+        "id": 6,
+        "name": "Geo Tracker",
+        "image": "/images/GeoTracker.png",
+        "gitUrl": "https://github.com/MaiaBetancourt/EZ-geo-tracker",
+        "deployedUrl": "https://maiabetancourt.github.io/EZ-geo-tracker/"
+    }
+
+    
+]
