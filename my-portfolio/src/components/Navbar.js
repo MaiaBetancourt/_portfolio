@@ -10,7 +10,7 @@ export default function Navbar() {
         </Link>
           
         <div className="collapse navbar-collapse" id="navbarNav">
-          <ul className="navbar-nav ml-auto">
+          <ul className="navbar-nav">
             <li className="nav-item active">
               <Link to="/" className="nav-link" >
                 About <span className="sr-only">(current)</span>
