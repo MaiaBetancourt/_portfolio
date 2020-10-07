@@ -12,14 +12,9 @@ function App() {
         <Navbar />
         <Route exact path="/" component={About} />
         <Route exact path="/Portfolio" component={Portfolio} />
-        <Route exact path="/Contact" component={Contact} />
       </div>
     </BrowserRouter>
   );
-}
-
-function Contact() {
-  return <h1>Welcome to Contact!!!</h1>;
 }
 
 export default App;

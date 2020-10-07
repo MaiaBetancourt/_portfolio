@@ -1,11 +1,10 @@
 import React, { Component } from "react";
 
+
+
 export default class Portfolio extends Component {
   state = {
-    id: "",
-    name: "",
-    image: "",
-    url: "",
+//    projects
   };
 
   render() {
