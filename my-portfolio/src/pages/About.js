@@ -9,8 +9,7 @@ function About() {
           height: "50vh",
           backgroundImage: `url(${process.env.PUBLIC_URL + "/DevImage.jpeg"})`,
         }}
-      >
-      </div>
+      ></div>
       <div className="container" style={{ marginTop: 30 }}>
         <div className="row">
           <div className="col col-md-12">
@@ -18,10 +17,29 @@ function About() {
           </div>
         </div>
         <div className="row">
-          <div className="col col-md-12">
+          <div className="col col-md-6">
             <p>
-            My name is Maria Betancourt and I am entirely new to the use of computers let alone coding. I was born in Acapulco, Mexico and I moved to Las Vegas when i was ten years old. I love the outdoors like camping, hiking, reading, and going on long drives. I am excited to see how much I will learn taking this course.
+              My name is Maria Betancourt and I am entirely new to the use of
+              computers let alone coding. I was born in Acapulco, Mexico and I
+              moved to Las Vegas when i was ten years old. I love the outdoors
+              like camping, hiking, reading, and going on long drives. I am
+              excited to see how much I will learn taking this course.
             </p>
+          </div>
+          <div className="col col-md-6">
+            <div className="card">
+              <div className="card-body">
+                <h5 className="card-title">Info.</h5>
+                <p className="card-text">
+                </p>
+                <a href="#" className="card-link">
+                  Link
+                </a>
+                <a href="#" className="card-link">
+                  Link
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </div>
