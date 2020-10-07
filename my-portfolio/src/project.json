@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Fitness Tracker",
-        "image": "",
+        "image": "/images/FitnessTracker.png",
         "gitUrl": "https://github.com/MaiaBetancourt/fitness_tracker",
         "deployedUrl": "https://glacial-escarpment-63449.herokuapp.com/"
     },
@@ -23,14 +23,14 @@
     {
         "id": 4,
         "name": "Day Planner",
-        "image": "",
+        "image": "/images/DayPlanner.png",
         "gitUrl": "https://github.com/MaiaBetancourt/work-day-schedule",
         "deployedUrl": "https://maiabetancourt.github.io/work-day-schedule/"
     },
     {
         "id": 5,
         "name": "Team Profile Generator",
-        "image": "",
+        "image": "/images/TeamGenerator.png",
         "gitUrl": "https://github.com/MaiaBetancourt/generateateam",
         "deployedUrl": "https://youtu.be/UQJHSP7e47s"
     },
