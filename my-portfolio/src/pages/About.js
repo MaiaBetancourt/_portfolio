@@ -27,19 +27,7 @@ function About() {
             </p>
           </div>
           <div className="col col-md-6">
-            <div className="card">
-              <div className="card-body">
-                <h5 className="card-title">Info.</h5>
-                <p className="card-text">
-                </p>
-                <a href="#" className="card-link">
-                  Link
-                </a>
-                <a href="#" className="card-link">
-                  Link
-                </a>
-              </div>
-            </div>
+            
           </div>
         </div>
       </div>
