@@ -28,7 +28,7 @@ function About() {
             </p>
           </div>
           <div className="col col-md-6">
-            <ContactLinks  />
+            <ContactLinks />
           </div>
         </div>
       </div>
