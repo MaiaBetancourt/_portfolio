@@ -1,4 +1,5 @@
 import React from "react";
+import ContactLinks from "../components/ContactLinks";
 
 function About() {
   return (
@@ -27,7 +28,7 @@ function About() {
             </p>
           </div>
           <div className="col col-md-6">
-            
+            <ContactLinks  />
           </div>
         </div>
       </div>
