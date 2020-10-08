@@ -12,9 +12,11 @@ function ProjectCard(props) {
           <li>
             <strong>Name:</strong> {props.name}
           </li>
+          <br/>
           <a href={props.gitUrl}>
             <strong>View On Github</strong> 
           </a>
+          <br/>
           <br/>
           <a href={props.deployedUrl}>
             <strong>View Deployed App</strong> 
