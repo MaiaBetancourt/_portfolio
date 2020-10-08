@@ -9,7 +9,7 @@
     {
         "id": 2,
         "name": "Be Stocked",
-        "image": "/images/GetStocked.png",
+        "image": "/images/Stocks.png",
         "gitUrl": "https://github.com/MaiaBetancourt/p2_stock_dashboard",
         "deployedUrl": "https://calm-savannah-23723.herokuapp.com/"
     },
