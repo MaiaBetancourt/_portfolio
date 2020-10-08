@@ -13,7 +13,7 @@ export default class Portfolio extends Component {
     return (
       <Wrapper>
         <Title>Projects List</Title>
-        {this.state.projects.map(project => (
+        {this.state.projects.map((project) => (
           <ProjectsCard
             id={project.id}
             key={project.id}

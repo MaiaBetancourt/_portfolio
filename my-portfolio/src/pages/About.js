@@ -20,13 +20,13 @@ function About() {
         <div className="row">
           <div className="col col-md-6">
             <p>
-              My name is Maria. I recently received a certificate in Full
-              Stack Web Development from University of Arizona Coding Bootcamp.
-              During the course, I learned to develop projects in groups,
-              delegate tasks, and meet deadlines. I acquired skills in both
-              front and back-end technologies, learned languages like HTML, CSS,
-              and JavaScript, frameworks like React and Express, and databases
-              like MySQL and MongoDB.
+              My name is Maria. I recently received a certificate in Full Stack
+              Web Development from University of Arizona Coding Bootcamp. During
+              the course, I learned to develop projects in groups, delegate
+              tasks, and meet deadlines. I acquired skills in both front and
+              back-end technologies, learned languages like HTML, CSS, and
+              JavaScript, frameworks like React and Express, and databases like
+              MySQL and MongoDB.
             </p>
             <p>
               In the past I've worked managing digital presses which highly
